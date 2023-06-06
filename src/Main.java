@@ -7,5 +7,7 @@ public class Main {
         System.out.println("проверка 1");
 
         System.out.println("ресет сработал");
+
+        System.out.println("проверка аменд");
     }
 }
