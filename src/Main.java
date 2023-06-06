@@ -3,5 +3,7 @@ public class Main {
         System.out.println("основная");   // master branch
 
         System.out.println("ветка dev1");
+
+        System.out.println("проверка 1");
     }
 }
