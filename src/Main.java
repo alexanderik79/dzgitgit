@@ -6,5 +6,8 @@ public class Main {
 
         BWPrinter bwPrinter = new BWPrinter();
         bwPrinter.print();
+
+        ColorPrinter colorPrinter = new ColorPrinter();
+        colorPrinter.print();
     }
 }
