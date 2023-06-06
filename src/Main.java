@@ -9,5 +9,7 @@ public class Main {
         System.out.println("ресет сработал");
 
         System.out.println("проверка amend");
+
+        // revert сделан
     }
 }
