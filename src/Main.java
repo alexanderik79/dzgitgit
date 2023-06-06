@@ -9,9 +9,5 @@ public class Main {
         System.out.println("ресет сработал");
 
         System.out.println("проверка amend");
-
-        System.out.println("проверка amend2");
-
-
     }
 }
