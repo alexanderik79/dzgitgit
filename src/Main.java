@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("основная");   // master branch
 
+
         // my Fork.repo with Inheritance
         Chamomile chamomile = new Chamomile("Chamomile", "grass", 6, false,
                 "peculiar, slightly reminiscent of the smell of apples", "white");
@@ -21,5 +22,27 @@ public class Main {
         f16.dropBomb();
         f16.useRocketLauncher();
         f16.showMaxFlyDistance();
+
+        System.out.println("ветка dev2");
+
+        BWPrinter bwPrinter = new BWPrinter();
+        bwPrinter.print();
+
+        ColorPrinter colorPrinter = new ColorPrinter();
+        colorPrinter.print();
+        System.out.println("ветка dev1");
+
+        System.out.println("проверка 1");
+
+        System.out.println("ресет сработал");
+
+        System.out.println("проверка amend");
+
+        // revert сделан
+
+        //сквош сделан
+
+        //сделал ребейс своих веток
+
     }
 }
