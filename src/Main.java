@@ -11,5 +11,7 @@ public class Main {
         System.out.println("проверка amend");
 
         // revert сделан
+
+        //сквош сделан
     }
 }
