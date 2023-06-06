@@ -6,6 +6,6 @@ public class Main {
 
         System.out.println("проверка 1");
 
-        System.out.println("проверка ресет");
+        System.out.println("ресет сработал");
     }
 }
