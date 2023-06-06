@@ -12,5 +12,15 @@ public class Main {
         System.out.println("ветка dev1");
 
         System.out.println("проверка 1");
+
+        System.out.println("ресет сработал");
+
+        System.out.println("проверка amend");
+
+        // revert сделан
+
+        //сквош сделан
+
+        //сделал ребейс своих веток
     }
 }
