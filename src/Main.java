@@ -3,5 +3,8 @@ public class Main {
         System.out.println("основная");   // master branch
 
         System.out.println("ветка dev2");
+
+        BWPrinter bwPrinter = new BWPrinter();
+        bwPrinter.print();
     }
 }
