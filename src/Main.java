@@ -9,5 +9,22 @@ public class Main {
 
         ColorPrinter colorPrinter = new ColorPrinter();
         colorPrinter.print();
+
+        System.out.println("ветка dev1");
+
+        System.out.println("проверка 1");
+
+        System.out.println("ресет сработал");
+
+        System.out.println("проверка amend");
+
+        // revert сделан
+
+        //сквош сделан
+
+        //сделал ребейс своих веток
+
+        //tru to cherry pick
+
     }
 }
