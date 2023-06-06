@@ -9,7 +9,6 @@ public class Main {
 
         ColorPrinter colorPrinter = new ColorPrinter();
         colorPrinter.print();
-
         System.out.println("ветка dev1");
 
         System.out.println("проверка 1");
